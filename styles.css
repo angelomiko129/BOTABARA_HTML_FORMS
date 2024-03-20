@@ -167,7 +167,6 @@ textarea {
     border-radius: 5px;
     background-color: #673ab7;
     color: #fff;
-    padding-left: 10px;
 }
 
 select, option {
@@ -179,7 +178,7 @@ select, option {
 }
 
 ::placeholder {
-    color: #fff;
+    color: #999999;
 }
 
 @media screen and (min-width: 700px) {
@@ -222,9 +221,6 @@ select, option {
     .form-row .checkbox-label {
         margin-left: 120px;
         width: auto;
-    }
-    .form-row select {
-        
     }
 }
 
