@@ -156,10 +156,9 @@ h1 {
     padding: 10px;   
 }
 
-.form-row input {
+.form-row input, .form-row input:focus {
     border-radius: 5px;
     color: #673ab7;
-    padding-left: 10px;
     outline: 1px solid #673ab7;
 }
 
